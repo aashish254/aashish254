@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="https://leetcode.com/u/aashish124"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/aashish-mahato-572611257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/_aashish.124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/aashish254"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -21,17 +22,19 @@
 name: Aashish Mahato
 location: Kathmandu, Nepal
 role: Full-Stack Developer & AI Enthusiast
-education: Computer Science / IT Student
+education: BTech Computer Science Student
 
 currently_working_on: AI-powered applications & full-stack web platforms
 currently_learning: Deep Learning, System Design, Cloud Architecture
 looking_to_collaborate_on: Open Source, AI/ML Projects, SaaS Products
+leetcode: 744+ problems solved | 105 Hard | 365-day badge 🏆
 fun_fact: I debug with console.log and I'm not ashamed 😄
 ```
 
 - 🔭 I'm currently building **AI-powered platforms** and **full-stack web apps**
 - 🌱 I'm deepening my skills in **Deep Learning**, **Next.js**, and **System Design**
-- 💬 Ask me about **React, Next.js, TypeScript, Python, AI/ML**
+- 💡 I've solved **744+ LeetCode problems** including **105 Hard** ones
+- 💬 Ask me about **React, Next.js, TypeScript, Python, DSA, AI/ML**
 - 📍 Based in **Kathmandu, Nepal**
 
 ---
@@ -192,9 +195,20 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
 
 ---
 
+## 🏅 LeetCode Stats
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <a href="https://leetcode.com/u/aashish124">
+    <img width="60%" src="https://leetcard.jacoblin.cool/aashish124?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-744+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hard-105-FF375F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Max_Streak-62_Days-00B8A3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rank-82,328-6C63FF?style=for-the-badge"/>
+</p>
 
 ---
 
