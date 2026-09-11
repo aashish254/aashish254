@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Mahato;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Mahato;Systems+Architect+%7C+AI+Integration+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>A passionate developer from Kathmandu, Nepal 🇳🇵 building full-stack apps & AI-powered solutions</em>
+  <em>CS&E Graduate from Kathmandu, Nepal 🇳🇵 — Specializing in System Architecture, API Orchestration & AI-Driven Automation</em>
 </p>
 
 ---
@@ -21,20 +21,20 @@
 ```yaml
 name: Aashish Mahato
 location: Kathmandu, Nepal
-role: Full-Stack Developer & AI Enthusiast
-education: BTech Computer Science Student
+role: Systems Architect | AI Integration Engineer
+education: B.Tech in Computer Science & Engineering
 
-currently_working_on: AI-powered applications & full-stack web platforms
-currently_learning: Deep Learning, System Design, Cloud Architecture
-looking_to_collaborate_on: Open Source, AI/ML Projects, SaaS Products
-leetcode: 744+ problems solved | 105 Hard | 365-day badge 🏆
-fun_fact: I debug with console.log and I'm not ashamed 😄
+domains: System Architecture, API Orchestration, AI-Driven Automation
+building: Hybrid AI systems, multi-detector fusion algorithms, scalable API pipelines
+competitive_programming: 744+ LeetCode problems | 105 Hard | 365-day badge 🏆
+philosophy: User-centric system design meets intelligent automation
 ```
 
-- 🔭 I'm currently building **AI-powered platforms** and **full-stack web apps**
-- 🌱 I'm deepening my skills in **Deep Learning**, **Next.js**, and **System Design**
-- 💡 I've solved **744+ LeetCode problems** including **105 Hard** ones
-- 💬 Ask me about **React, Next.js, TypeScript, Python, DSA, AI/ML**
+- 🏛️ I design **system architectures** and **API integration pipelines** for complex workflows
+- 🤖 I build **hybrid AI systems** with custom ensemble architectures & multi-detector fusion
+- 💡 I've solved **744+ LeetCode problems** including **105 Hard** — strong in DSA & problem-solving
+- 🛠️ Tech focus: **Next.js, TypeScript, Python, FastAPI, PyTorch, LLM/Vision APIs**
+- 🌐 Passionate about **AI-driven workflow automation** and **scalable backend systems**
 - 📍 Based in **Kathmandu, Nepal**
 
 ---
@@ -46,43 +46,50 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
   <td align="center" width="140"><strong>Languages</strong></td>
   <td>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   </td>
 </tr>
 <tr>
   <td align="center"><strong>Frontend</strong></td>
   <td>
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   </td>
 </tr>
 <tr>
-  <td align="center"><strong>Backend</strong></td>
+  <td align="center"><strong>Backend & APIs</strong></td>
   <td>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   </td>
 </tr>
 <tr>
   <td align="center"><strong>AI / ML</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IBM_Watson-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white"/>
   </td>
 </tr>
 <tr>
-  <td align="center"><strong>Tools</strong></td>
+  <td align="center"><strong>Tools & Infra</strong></td>
   <td>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UML/BPMN-02569B?style=flat-square&logo=uml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   </td>
 </tr>
 </table>
@@ -114,7 +121,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
         <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </p>
-    <p align="center">Multi-Modal Forensic Analysis Platform for detecting AI-generated images using frequency-domain mathematics, vision AI, and 7 novel detection algorithms.</p>
+    <p align="center">Multi-Modal Forensic Analysis Platform with custom ensemble architecture (DRWF/DACC), frequency-domain mathematics, and 7 novel detection algorithms for AI-generated image detection.</p>
     <p align="center">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -129,7 +136,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
         <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </p>
-    <p align="center">Comprehensive Blood Bank Management System built with Next.js and PostgreSQL. Manages donors, inventory, and blood requests with a modern UI.</p>
+    <p align="center">Full-stack Blood Bank Management System with complex database architecture, donor lifecycle management, and inventory tracking. Designed with SRS-driven development.</p>
     <p align="center">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -158,7 +165,7 @@ fun_fact: I debug with console.log and I'm not ashamed 😄
         <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </p>
-    <p align="center">Analytics dashboard with AI-powered insights, professional reporting, and advanced data visualization for AI regulation tracking.</p>
+    <p align="center">Analytics dashboard with AI-powered insights, automated reporting pipelines, and advanced data visualization for tracking global AI regulation policy.</p>
     <p align="center">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Analytics-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
