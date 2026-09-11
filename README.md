@@ -22,20 +22,50 @@
 name: Aashish Mahato
 location: Kathmandu, Nepal
 role: Systems Architect | AI Integration Engineer
-education: B.Tech in Computer Science & Engineering
+education: B.Tech in CS&E — Vellore Institute of Technology (VIT), India
+graduation: First Class with Distinction
 
 domains: System Architecture, API Orchestration, AI-Driven Automation
-building: Hybrid AI systems, multi-detector fusion algorithms, scalable API pipelines
+innovation: Patent-pending work in AI Forensics & Biomedical Signal Processing
 competitive_programming: 744+ LeetCode problems | 105 Hard | 365-day badge 🏆
 philosophy: User-centric system design meets intelligent automation
 ```
 
+- 🎓 **B.Tech CSE** from **VIT Vellore** — First Class with Distinction
 - 🏛️ I design **system architectures** and **API integration pipelines** for complex workflows
 - 🤖 I build **hybrid AI systems** with custom ensemble architectures & multi-detector fusion
-- 💡 I've solved **744+ LeetCode problems** including **105 Hard** — strong in DSA & problem-solving
-- 🛠️ Tech focus: **Next.js, TypeScript, Python, FastAPI, PyTorch, LLM/Vision APIs**
-- 🌐 Passionate about **AI-driven workflow automation** and **scalable backend systems**
+- 📜 **Patent-pending** innovations in AI Forensic Detection (DRWF/DACC algorithms)
+- 💡 Solved **744+ LeetCode problems** including **105 Hard** — strong in DSA & problem-solving
 - 📍 Based in **Kathmandu, Nepal**
+
+---
+
+## 📜 Research & Innovation
+
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">🔬 OriginLayer — AI Forensic Detection</h3>
+    <p align="center"><em>Patent Pending (R-IPR0002966P)</em></p>
+    <p align="center">Invented <strong>DRWF</strong> (Dynamic Reliability-Weighted Fusion) and <strong>DACC</strong> (Disagreement-Aware Confidence Calibration) algorithms for detecting AI-generated synthetic media. Achieved <strong>95.3% accuracy</strong> with +13.3% higher stability under API failures.</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Patent_Pending-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/95.3%25_Accuracy-00B894?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Novel_Algorithms-6C63FF?style=flat-square"/>
+    </p>
+  </td>
+  <td width="50%">
+    <h3 align="center">🩺 Biomedical Signal Processing</h3>
+    <p align="center"><em>Innovation Filing</em></p>
+    <p align="center">Non-invasive sensor signal processing framework using machine learning for real-time respiratory pattern monitoring and biological marker analysis.</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Signal_Processing-E84393?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Biomedical-00B894?style=flat-square"/>
+    </p>
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -101,30 +131,32 @@ philosophy: User-centric system design meets intelligent automation
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">🌿 Plant Disease Detection</h3>
+    <h3 align="center">⚡ VPT: Vision-Powered Transformer</h3>
     <p align="center">
       <a href="https://github.com/aashish254/plant-disease-detection">
         <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </p>
-    <p align="center">Deep Learning-powered system that identifies plant diseases from leaf images. Built with TypeScript and ML models for accurate agricultural diagnostics.</p>
+    <p align="center">Hybrid AI retrieval engine connecting fine-tuned Nano-GPT with Google Gemini API for real-time web scraping (~2–5s latency). Built with Next.js 14, TypeScript & PyTorch.</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/github/stars/aashish254/plant-disease-detection?style=flat-square&color=yellow"/>
     </p>
   </td>
   <td width="50%">
-    <h3 align="center">🔍 AI Image Detection</h3>
+    <h3 align="center">🔍 OriginLayer — AI Forensic Detection</h3>
     <p align="center">
       <a href="https://github.com/aashish254/ai-image-detection">
         <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </p>
-    <p align="center">Multi-Modal Forensic Analysis Platform with custom ensemble architecture (DRWF/DACC), frequency-domain mathematics, and 7 novel detection algorithms for AI-generated image detection.</p>
+    <p align="center">Patent-pending multi-detector ensemble framework with novel DRWF/DACC algorithms. 95.3% accuracy across 7 detection methods for identifying AI-generated synthetic media.</p>
     <p align="center">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Patent_Pending-FF6B6B?style=flat-square"/>
     </p>
   </td>
 </tr>
