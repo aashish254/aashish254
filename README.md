@@ -102,6 +102,21 @@ philosophy: User-centric system design meets intelligent automation
 <table>
 <tr>
   <td width="50%">
+    <h3 align="center">🎬 AniFlow</h3>
+    <p align="center">
+      <a href="https://github.com/aashish254/Aniflow">
+        <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>
+    <p align="center">Autonomous AI Studio for Manhwa & Webtoon Recaps. Multi-model vision pipeline (YOLOv8 + Magi v2), multi-voice TTS narration, dialogue extraction & automated video synthesis.</p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI_Vision-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/aashish254/Aniflow?style=flat-square&color=yellow"/>
+    </p>
+  </td>
+  <td width="50%">
     <h3 align="center">🌿 Plant Disease Detection</h3>
     <p align="center">
       <a href="https://github.com/aashish254/plant-disease-detection">
@@ -115,6 +130,8 @@ philosophy: User-centric system design meets intelligent automation
       <img src="https://img.shields.io/github/stars/aashish254/plant-disease-detection?style=flat-square&color=yellow"/>
     </p>
   </td>
+</tr>
+<tr>
   <td width="50%">
     <h3 align="center">🔍 AI Forensic Image Detection</h3>
     <p align="center">
@@ -128,8 +145,6 @@ philosophy: User-centric system design meets intelligent automation
       <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     </p>
   </td>
-</tr>
-<tr>
   <td width="50%">
     <h3 align="center">🩸 LifeFlow DBMS</h3>
     <p align="center">
@@ -141,20 +156,6 @@ philosophy: User-centric system design meets intelligent automation
     <p align="center">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </p>
-  </td>
-  <td width="50%">
-    <h3 align="center">🤖 Course Recommendation Bot</h3>
-    <p align="center">
-      <a href="https://github.com/aashish254/course-recommendation-bot">
-        <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </p>
-    <p align="center">AI-powered chatbot that provides personalized course recommendations using Flask backend and IBM Watson's NLP capabilities.</p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IBM_Watson-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white"/>
     </p>
   </td>
 </tr>
@@ -173,16 +174,17 @@ philosophy: User-centric system design meets intelligent automation
     </p>
   </td>
   <td width="50%">
-    <h3 align="center">💬 Chat-Chatter</h3>
+    <h3 align="center">🤖 Course Recommendation Bot</h3>
     <p align="center">
-      <a href="https://github.com/aashish254/Chat-Chatter">
+      <a href="https://github.com/aashish254/course-recommendation-bot">
         <img src="https://img.shields.io/badge/VIEW_REPO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </p>
-    <p align="center">Real-time chat application built with Next.js featuring modern UI, instant messaging, and seamless user experience.</p>
+    <p align="center">AI-powered chatbot that provides personalized course recommendations using Flask backend and IBM Watson's NLP capabilities.</p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IBM_Watson-BE95FF?style=flat-square&logo=ibmwatson&logoColor=white"/>
     </p>
   </td>
 </tr>
