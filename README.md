@@ -205,6 +205,18 @@ philosophy: User-centric system design meets intelligent automation
 
 ---
 
+## 📊 Contribution Activity
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aashish254&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&area_color=6C63FF" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aashish254/aashish254/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+
 ## 🏅 LeetCode Stats
 
 <div align="center">
