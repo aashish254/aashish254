@@ -37,6 +37,7 @@ philosophy: User-centric system design meets intelligent automation
 - 💡 Solved **744+ LeetCode problems** including **105 Hard** — strong in DSA & problem-solving
 - 🛠️ Tech focus: **Next.js 14, TypeScript, Python, FastAPI, PyTorch, LLM/Vision APIs**
 - 📐 Engineering reference: [System Architecture & API Orchestration Patterns](docs/architecture-patterns.md)
+- 📋 New: [Systems Analysis Portfolio](https://github.com/aashish254/systems-analysis-portfolio) — full BA/SA case study with BRD/FSD, Mermaid DFDs & ERDs, Jira-format user stories, and a contract-first OpenAPI spec
 - 📍 Based in **Kathmandu, Nepal**
 
 ---
@@ -142,6 +143,26 @@ philosophy: User-centric system design meets intelligent automation
     </tr>
   </tbody>
 </table>
+
+---
+
+## 📋 Systems Analysis Portfolio
+
+<div align="center">
+  <a href="https://github.com/aashish254/systems-analysis-portfolio">
+    <img width="98%" alt="Systems Analysis Portfolio" src="https://img.shields.io/badge/NEW-Systems_Analysis_Portfolio-6C63FF?style=for-the-badge&label=📌&labelColor=0D1117"/>
+  </a>
+  <p><em>A complete BA/SA case study — <strong>PayLink Digital Wallet Rollout</strong> — where every artifact traces through the same fictional enterprise project:</em></p>
+  <table>
+    <tr>
+      <td align="center">📝 <strong>BRD & FSD</strong><br/>requirements with<br/>Given/When/Then criteria</td>
+      <td align="center">📊 <strong>DFDs & ERD</strong><br/>Mermaid diagrams +<br/>data dictionary</td>
+      <td align="center">🗂️ <strong>User Stories</strong><br/>Jira export format +<br/>traceability matrix</td>
+      <td align="center">🔌 <strong>OpenAPI 3.1</strong><br/>contract-first API<br/>+ DB mapping</td>
+      <td align="center">🗄️ <strong>SQL & Data</strong><br/>reconciliation +<br/>error-handling matrix</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
