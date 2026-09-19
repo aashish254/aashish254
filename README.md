@@ -113,31 +113,31 @@ philosophy: User-centric system design meets intelligent automation
       <td><a href="https://github.com/mermaid-js/mermaid"><strong>mermaid</strong></a></td>
       <td>Architecture & Workflow Modeling (<strong>90.3k ⭐</strong>)</td>
       <td><a href="https://github.com/mermaid-js/mermaid/pull/8275">#8275: Support nested generic types in class definitions & database (#7648)</a></td>
-      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Running-success?style=flat-square" alt="Open"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jazzband/django-taggit"><strong>django-taggit</strong></a></td>
-      <td>Jazzband (~3.8k ⭐)</td>
-      <td><a href="https://github.com/jazzband/django-taggit/pull/956">#956: Expose field on _TaggableManager & add m2m_field_name for M2M introspection</a></td>
       <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/odysseus-dev/odysseus"><strong>odysseus</strong></a></td>
-      <td>Odysseus Dev (~1.4k ⭐)</td>
+      <td>Self-hosted AI Workspace (<strong>87.4k ⭐</strong>)</td>
       <td><a href="https://github.com/odysseus-dev/odysseus/pull/6370">#6370: Reject blank memory_id on edit and delete to prevent state wipe</a></td>
       <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/odysseus-dev/odysseus"><strong>odysseus</strong></a></td>
-      <td>Odysseus Dev (~1.4k ⭐)</td>
+      <td>Self-hosted AI Workspace (<strong>87.4k ⭐</strong>)</td>
       <td><a href="https://github.com/odysseus-dev/odysseus/pull/6369">#6369: Resolve NameError in cookbook hf-gguf-files exception handler</a></td>
       <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
-      <td>Mozilla (~15k ⭐)</td>
+      <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
       <td><a href="https://github.com/mdn/content/pull/45778">#45778: Fix typo setAttribute in custom-elements documentation</a></td>
       <td><img src="https://img.shields.io/badge/PR-Merged-purple?style=flat-square" alt="Merged"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jazzband/django-taggit"><strong>django-taggit</strong></a></td>
+      <td>Jazzband Django Ecosystem (<strong>3.4k ⭐</strong>)</td>
+      <td><a href="https://github.com/jazzband/django-taggit/pull/956">#956: Expose field on _TaggableManager & add m2m_field_name for M2M introspection</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
     </tr>
   </tbody>
 </table>
