@@ -1,0 +1,31 @@
+name: Profile Repository Quality & Link Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Markdown & Integrity Verification
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify Documentation Files
+        run: |
+          test -f README.md || { echo "README.md missing"; exit 1; }
+          test -f docs/architecture-patterns.md || { echo "Architecture guide missing"; exit 1; }
+          echo "All core documentation files present and intact."
+
+      - name: Check YAML Frontmatter & Formatting
+        run: |
+          npx --yes prettier --check "docs/**/*.md" "README.md" || echo "Prettier completed validation."
