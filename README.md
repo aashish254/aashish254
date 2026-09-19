@@ -110,6 +110,12 @@ philosophy: User-centric system design meets intelligent automation
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/mermaid-js/mermaid"><strong>mermaid</strong></a></td>
+      <td>Architecture & Workflow Modeling (<strong>90.3k ⭐</strong>)</td>
+      <td><a href="https://github.com/mermaid-js/mermaid/pull/8275">#8275: Support nested generic types in class definitions & database (#7648)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Running-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/jazzband/django-taggit"><strong>django-taggit</strong></a></td>
       <td>Jazzband (~3.8k ⭐)</td>
       <td><a href="https://github.com/jazzband/django-taggit/pull/956">#956: Expose field on _TaggableManager & add m2m_field_name for M2M introspection</a></td>
