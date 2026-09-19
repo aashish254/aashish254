@@ -36,6 +36,7 @@ philosophy: User-centric system design meets intelligent automation
 - 🤖 I build **hybrid AI systems** with custom ensemble architectures & multi-detector fusion
 - 💡 Solved **744+ LeetCode problems** including **105 Hard** — strong in DSA & problem-solving
 - 🛠️ Tech focus: **Next.js 14, TypeScript, Python, FastAPI, PyTorch, LLM/Vision APIs**
+- 📐 Engineering reference: [System Architecture & API Orchestration Patterns](docs/architecture-patterns.md)
 - 📍 Based in **Kathmandu, Nepal**
 
 ---
@@ -125,18 +126,6 @@ philosophy: User-centric system design meets intelligent automation
       <td><a href="https://github.com/odysseus-dev/odysseus"><strong>odysseus</strong></a></td>
       <td>Self-hosted AI Workspace (<strong>87.4k ⭐</strong>)</td>
       <td><a href="https://github.com/odysseus-dev/odysseus/pull/6369">#6369: Resolve NameError in cookbook hf-gguf-files exception handler</a></td>
-      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
-      <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
-      <td><a href="https://github.com/mdn/content/pull/45787">#45787: Improve documentation for &lt;dialog&gt; lifecycle, button constraints, & notification assets</a></td>
-      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
-      <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
-      <td><a href="https://github.com/mdn/content/pull/45786">#45786: Fix typos in CSS animation shorthand reference</a></td>
       <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
     </tr>
     <tr>
