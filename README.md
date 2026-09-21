@@ -1,50 +1,81 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Mahato;Systems+Architect+%7C+AI+Integration+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Mahato;Business+%26+Systems+Analyst;Requirements+%E2%86%92+Systems+%E2%86%92+Delivery" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://leetcode.com/u/aashish124"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/aashish-mahato-572611257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/_aashish.124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/aashish254"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/aashish124"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://instagram.com/_aashish.124"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <img src="https://komarev.com/ghpvc/?username=aashish254&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <em>CS&E Graduate from Kathmandu, Nepal 🇳🇵 — Specializing in System Architecture, API Orchestration & AI-Driven Automation</em>
+  <em>CS&E Graduate → Business &amp; Systems Analysis · Incoming Master's student in Australia 🇦🇺 · Open-source contributor to Mozilla, Apache, Atlassian &amp; NSW Government projects</em>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💼 About Me
 
 ```yaml
 name: Aashish Mahato
-location: Kathmandu, Nepal
-role: Systems Architect | AI Integration Engineer
-education: B.Tech in CS&E — Vellore Institute of Technology (VIT), India
-graduation: First Class with Distinction
+location: Kathmandu, Nepal → Australia (Master's, incoming)
+focus: Business Analysis, Systems Analysis, Requirements Engineering
+education: B.Tech in CS&E — Vellore Institute of Technology (VIT), First Class with Distinction
 
-domains: System Architecture, API Orchestration, AI-Driven Automation
-building: Hybrid AI systems, ensemble architectures, scalable API pipelines
-competitive_programming: 744+ LeetCode problems | 105 Hard | 365-day badge 🏆
-philosophy: User-centric system design meets intelligent automation
+analysis_toolkit: BRD/FSD/SRS writing, User Stories (Given/When/Then), UML & BPMN,
+                  DFDs & ERDs, Traceability Matrices, OpenAPI contracts, SQL
+technical_depth: TypeScript, Python, SQL, REST APIs — I can sit with engineers
+                 AND translate for stakeholders
+open_source: Contributor to Mozilla MDN, Apache Airflow, Atlassian, mermaid,
+             NSW Government Design System, and more
+competitive_programming: 748+ LeetCode problems | 106 Hard | 365-day badge 🏆
+philosophy: Great systems start with great requirements
 ```
 
-- 🎓 **B.Tech CSE** from **VIT Vellore** — First Class with Distinction
-- 🏛️ I design **system architectures** and **API integration pipelines** for complex workflows
-- 🤖 I build **hybrid AI systems** with custom ensemble architectures & multi-detector fusion
-- 💡 Solved **744+ LeetCode problems** including **105 Hard** — strong in DSA & problem-solving
-- 🛠️ Tech focus: **Next.js 14, TypeScript, Python, FastAPI, PyTorch, LLM/Vision APIs**
+- 🎯 **Career goal:** Business / Systems Analyst roles in **Sydney** after my Master's
+- 📋 My **[Systems Analysis Portfolio](https://github.com/aashish254/systems-analysis-portfolio)** — a full end-to-end BA/SA case study (BRD → FSD → user stories → API contract → SQL), is pinned below
+- 🌐 I contribute to the tools analysts actually use — **Apache Airflow**, **mermaid** (diagramming), **Atlassian** (Jira's maker), and the **NSW Government Design System**
+- 💡 Solved **748+ LeetCode problems** including **106 Hard** — structured problem-solving is my comfort zone
 - 📐 Engineering reference: [System Architecture & API Orchestration Patterns](docs/architecture-patterns.md)
-- 📋 New: [Systems Analysis Portfolio](https://github.com/aashish254/systems-analysis-portfolio) — full BA/SA case study with BRD/FSD, Mermaid DFDs & ERDs, Jira-format user stories, and a contract-first OpenAPI spec
-- 📍 Based in **Kathmandu, Nepal**
+
+---
+
+## 📋 Systems Analysis Portfolio — my flagship BA/SA case study
+
+<div align="center">
+  <a href="https://github.com/aashish254/systems-analysis-portfolio">
+    <img width="98%" alt="Systems Analysis Portfolio" src="https://img.shields.io/badge/Systems_Analysis_Portfolio-6C63FF?style=for-the-badge&label=📌&labelColor=0D1117"/>
+  </a>
+  <p><em>A complete BA/SA case study — <strong>PayLink Digital Wallet Rollout</strong> — where every artifact traces through the same fictional enterprise project:</em></p>
+  <table>
+    <tr>
+      <td align="center">📝 <strong>BRD & FSD</strong><br/>requirements with<br/>Given/When/Then criteria</td>
+      <td align="center">📊 <strong>DFDs & ERD</strong><br/>Mermaid diagrams +<br/>data dictionary</td>
+      <td align="center">🗂️ <strong>User Stories</strong><br/>Jira export format +<br/>traceability matrix</td>
+      <td align="center">🔌 <strong>OpenAPI 3.1</strong><br/>contract-first API<br/>+ DB mapping</td>
+      <td align="center">🗄️ <strong>SQL & Data</strong><br/>reconciliation +<br/>error-handling matrix</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <table align="center">
+<tr>
+  <td align="center" width="140"><strong>Analysis & Docs</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/UML/BPMN-02569B?style=flat-square&logo=uml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  </td>
+</tr>
 <tr>
   <td align="center" width="140"><strong>Languages</strong></td>
   <td>
@@ -112,28 +143,64 @@ philosophy: User-centric system design meets intelligent automation
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mermaid-js/mermaid"><strong>mermaid</strong></a></td>
-      <td>Architecture & Workflow Modeling (<strong>90.3k ⭐</strong>)</td>
-      <td><a href="https://github.com/mermaid-js/mermaid/pull/8275">#8275: Support nested generic types in class definitions & database (#7648)</a></td>
-      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+      <td><a href="https://github.com/digitalnsw/nsw-design-system"><strong>NSW Design System</strong></a> 🇦🇺</td>
+      <td>NSW Government Design System</td>
+      <td><a href="https://github.com/digitalnsw/nsw-design-system/pull/778">Fix broken documentation links to the current design system site</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Merged-purple?style=flat-square" alt="Merged"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/odysseus-dev/odysseus"><strong>odysseus</strong></a></td>
-      <td>Self-hosted AI Workspace (<strong>87.4k ⭐</strong>)</td>
-      <td><a href="https://github.com/odysseus-dev/odysseus/pull/6370">#6370: Reject blank memory_id on edit and delete to prevent state wipe</a></td>
-      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/odysseus-dev/odysseus"><strong>odysseus</strong></a></td>
-      <td>Self-hosted AI Workspace (<strong>87.4k ⭐</strong>)</td>
-      <td><a href="https://github.com/odysseus-dev/odysseus/pull/6369">#6369: Resolve NameError in cookbook hf-gguf-files exception handler</a></td>
-      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+      <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
+      <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
+      <td><a href="https://github.com/mdn/content/pull/45786">#45786: Fix typos in CSS animation shorthand reference</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Merged-purple?style=flat-square" alt="Merged"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
       <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
       <td><a href="https://github.com/mdn/content/pull/45778">#45778: Fix typo setAttribute in custom-elements documentation</a></td>
       <td><img src="https://img.shields.io/badge/PR-Merged-purple?style=flat-square" alt="Merged"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/apache/airflow"><strong>Apache Airflow</strong></a></td>
+      <td>Workflow Orchestration (<strong>47k ⭐</strong>)</td>
+      <td><a href="https://github.com/apache/airflow/pull/73412">#73412: Fix typos and broken code example on Operators docs page (#71945)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20In%20Review-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/andrewyng/openworker"><strong>openworker</strong></a></td>
+      <td>Andrew Ng's Agentic AI Framework (<strong>18k ⭐</strong>)</td>
+      <td><a href="https://github.com/andrewyng/openworker/pull/677">#677: Fix KeyError crash in effort mapping for unlisted model ids (#676)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20Tests%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mermaid-js/mermaid"><strong>mermaid</strong></a></td>
+      <td>Diagramming & Workflow Modeling (<strong>90k ⭐</strong>)</td>
+      <td><a href="https://github.com/mermaid-js/mermaid/pull/8275">#8275: Support nested generic types in class diagram definitions (#7648)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mermaid-js/mermaid"><strong>mermaid</strong></a></td>
+      <td>Diagramming & Workflow Modeling (<strong>90k ⭐</strong>)</td>
+      <td><a href="https://github.com/mermaid-js/mermaid/pull/8281">#8281: Pass :::className assignments through kanban getData() (#8119)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/atlassian/better-ajv-errors"><strong>Atlassian better-ajv-errors</strong></a></td>
+      <td>Atlassian Developer Tooling</td>
+      <td><a href="https://github.com/atlassian/better-ajv-errors/pull/278">#278: Replace chalk with Node's built-in util.styleText (#219)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20Tests%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/atlassian/better-ajv-errors"><strong>Atlassian better-ajv-errors</strong></a></td>
+      <td>Atlassian Developer Tooling</td>
+      <td><a href="https://github.com/atlassian/better-ajv-errors/pull/279">#279: Fix nullable enum error output + regression tests (#224)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20Tests%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
+      <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
+      <td><a href="https://github.com/mdn/content/pull/45792">#45792: Fix unresolvable cssxref links on the CSS animation page</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/jazzband/django-taggit"><strong>django-taggit</strong></a></td>
@@ -143,26 +210,6 @@ philosophy: User-centric system design meets intelligent automation
     </tr>
   </tbody>
 </table>
-
----
-
-## 📋 Systems Analysis Portfolio
-
-<div align="center">
-  <a href="https://github.com/aashish254/systems-analysis-portfolio">
-    <img width="98%" alt="Systems Analysis Portfolio" src="https://img.shields.io/badge/NEW-Systems_Analysis_Portfolio-6C63FF?style=for-the-badge&label=📌&labelColor=0D1117"/>
-  </a>
-  <p><em>A complete BA/SA case study — <strong>PayLink Digital Wallet Rollout</strong> — where every artifact traces through the same fictional enterprise project:</em></p>
-  <table>
-    <tr>
-      <td align="center">📝 <strong>BRD & FSD</strong><br/>requirements with<br/>Given/When/Then criteria</td>
-      <td align="center">📊 <strong>DFDs & ERD</strong><br/>Mermaid diagrams +<br/>data dictionary</td>
-      <td align="center">🗂️ <strong>User Stories</strong><br/>Jira export format +<br/>traceability matrix</td>
-      <td align="center">🔌 <strong>OpenAPI 3.1</strong><br/>contract-first API<br/>+ DB mapping</td>
-      <td align="center">🗄️ <strong>SQL & Data</strong><br/>reconciliation +<br/>error-handling matrix</td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -290,10 +337,10 @@ philosophy: User-centric system design meets intelligent automation
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems_Solved-744+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hard-105-FF375F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems_Solved-748+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hard-106-FF375F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Max_Streak-62_Days-00B8A3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Rank-82,328-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rank-83,006-6C63FF?style=for-the-badge"/>
 </p>
 
 ---
