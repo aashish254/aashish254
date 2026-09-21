@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Mahato;Business+%26+Systems+Analyst;Requirements+%E2%86%92+Systems+%E2%86%92+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Mahato;Software+Engineer+%7C+Open+Source+Contributor;I+build+and+fix+things+that+people+use" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>CS&E Graduate → Business &amp; Systems Analysis · Incoming Master's student in Australia 🇦🇺 · Open-source contributor to Mozilla, Apache, Atlassian &amp; NSW Government projects</em>
+  <em>CS&E Graduate · Open-source contributor to Mozilla, Apache, Atlassian, mermaid &amp; NSW Government projects · I love turning messy problems into clean, working systems</em>
 </p>
 
 ---
@@ -20,35 +20,32 @@
 
 ```yaml
 name: Aashish Mahato
-location: Kathmandu, Nepal → Australia (Master's, incoming)
-focus: Business Analysis, Systems Analysis, Requirements Engineering
+location: Kathmandu, Nepal
+role: Software Engineer & Open Source Contributor
 education: B.Tech in CS&E — Vellore Institute of Technology (VIT), First Class with Distinction
 
-analysis_toolkit: BRD/FSD/SRS writing, User Stories (Given/When/Then), UML & BPMN,
-                  DFDs & ERDs, Traceability Matrices, OpenAPI contracts, SQL
-technical_depth: TypeScript, Python, SQL, REST APIs — I can sit with engineers
-                 AND translate for stakeholders
+currently_into: System design, developer tooling, documentation engineering,
+                and fixing real bugs in software people rely on
 open_source: Contributor to Mozilla MDN, Apache Airflow, Atlassian, mermaid,
              NSW Government Design System, and more
 competitive_programming: 748+ LeetCode problems | 106 Hard | 365-day badge 🏆
-philosophy: Great systems start with great requirements
+philosophy: Read the code, respect the maintainers, leave every repo better than you found it
 ```
 
-- 🎯 **Career goal:** Business / Systems Analyst roles in **Sydney** after my Master's
-- 📋 My **[Systems Analysis Portfolio](https://github.com/aashish254/systems-analysis-portfolio)** — a full end-to-end BA/SA case study (BRD → FSD → user stories → API contract → SQL), is pinned below
-- 🌐 I contribute to the tools analysts actually use — **Apache Airflow**, **mermaid** (diagramming), **Atlassian** (Jira's maker), and the **NSW Government Design System**
+- 🌐 I contribute to tools developers use every day — **Apache Airflow**, **mermaid** (diagramming), **Atlassian** tooling, **Mozilla MDN Web Docs**, and the **NSW Government Design System**
+- 📋 I document systems properly too — see my **[Systems Analysis & Design Portfolio](https://github.com/aashish254/systems-analysis-portfolio)**: architecture diagrams, data models, and API contracts for a complete example system
 - 💡 Solved **748+ LeetCode problems** including **106 Hard** — structured problem-solving is my comfort zone
 - 📐 Engineering reference: [System Architecture & API Orchestration Patterns](docs/architecture-patterns.md)
 
 ---
 
-## 📋 Systems Analysis Portfolio — my flagship BA/SA case study
+## 📋 Systems Analysis & Design Portfolio — my flagship documentation project
 
 <div align="center">
   <a href="https://github.com/aashish254/systems-analysis-portfolio">
     <img width="98%" alt="Systems Analysis Portfolio" src="https://img.shields.io/badge/Systems_Analysis_Portfolio-6C63FF?style=for-the-badge&label=📌&labelColor=0D1117"/>
   </a>
-  <p><em>A complete BA/SA case study — <strong>PayLink Digital Wallet Rollout</strong> — where every artifact traces through the same fictional enterprise project:</em></p>
+  <p><em>A complete system design &amp; documentation case study — <strong>PayLink Digital Wallet Rollout</strong> — where every artifact traces through the same fictional enterprise project:</em></p>
   <table>
     <tr>
       <td align="center">📝 <strong>BRD & FSD</strong><br/>requirements with<br/>Given/When/Then criteria</td>
