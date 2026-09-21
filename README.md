@@ -277,7 +277,7 @@ philosophy: User-centric system design meets intelligent automation
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aashish254&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&area_color=6C63FF" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashish254&theme=tokyonight" alt="Contribution Graph"/>
 </div>
 
 
