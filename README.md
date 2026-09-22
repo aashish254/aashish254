@@ -154,6 +154,12 @@ philosophy: Read the code, respect the maintainers, leave every repo better than
     <tr>
       <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
       <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
+      <td><a href="https://github.com/mdn/content/pull/45816">#45816: Fix getElementByID typos in HTMLAreaElement/HTMLAnchorElement examples</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Merged-purple?style=flat-square" alt="Merged"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mdn/content"><strong>MDN Web Docs</strong></a></td>
+      <td>Mozilla Web Standards (<strong>11k ⭐</strong>)</td>
       <td><a href="https://github.com/mdn/content/pull/45778">#45778: Fix typo setAttribute in custom-elements documentation</a></td>
       <td><img src="https://img.shields.io/badge/PR-Merged-purple?style=flat-square" alt="Merged"></td>
     </tr>
