@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>CS&E Graduate · Open-source contributor to Mozilla, Apache, Atlassian, mermaid &amp; NSW Government projects · I love turning messy problems into clean, working systems</em>
+  <em>CS&E Graduate · Open-source contributor to Mozilla, Apache, Atlassian, mermaid, Laya (ML inference) &amp; NSW Government projects · I love turning messy problems into clean, working systems</em>
 </p>
 
 ---
@@ -27,12 +27,12 @@ education: B.Tech in CS&E — Vellore Institute of Technology (VIT), First Class
 currently_into: System design, developer tooling, documentation engineering,
                 and fixing real bugs in software people rely on
 open_source: Contributor to Mozilla MDN, Apache Airflow, Atlassian, mermaid,
-             NSW Government Design System, and more
+             Laya (ML inference — 9 PRs merged), NSW Government Design System, and more
 competitive_programming: 748+ LeetCode problems | 106 Hard | 365-day badge 🏆
 philosophy: Read the code, respect the maintainers, leave every repo better than you found it
 ```
 
-- 🌐 I contribute to tools developers use every day — **Apache Airflow**, **mermaid** (diagramming), **Atlassian** tooling, **Mozilla MDN Web Docs**, and the **NSW Government Design System**
+- 🌐 I contribute to tools developers use every day — **Apache Airflow**, **mermaid** (diagramming), **Atlassian** tooling, **Mozilla MDN Web Docs**, the **Laya** local-first ML inference library (**9 PRs merged** across the Python core and TypeScript SDK), and the **NSW Government Design System**
 - 📋 I document systems properly too — see my **[Systems Analysis & Design Portfolio](https://github.com/aashish254/systems-analysis-portfolio)**: architecture diagrams, data models, and API contracts for a complete example system
 - 💡 Solved **748+ LeetCode problems** including **106 Hard** — structured problem-solving is my comfort zone
 - 📐 Engineering reference: [System Architecture & API Orchestration Patterns](docs/architecture-patterns.md)
@@ -139,6 +139,30 @@ philosophy: Read the code, respect the maintainers, leave every repo better than
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/NandhaKishorM/laya"><strong>Laya</strong></a></td>
+      <td>Local-first ML Inference (Python + TypeScript SDK)</td>
+      <td><a href="https://github.com/NandhaKishorM/laya/pulls?q=is%3Apr+author%3Aaashish254+is%3Amerged"><strong>9 PRs merged</strong></a> — local CLI (#155, #303), transformers 4.x / Apple MPS runtime (#273), TS SDK hooks lifecycle & default hooks (#308, #321), language-router & e-mail parity fixes (#307, #301), mixed-batch fix (#312), tokenization perf (#309)</td>
+      <td><img src="https://img.shields.io/badge/9_PRs-Merged-purple?style=flat-square" alt="Merged"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NandhaKishorM/laya"><strong>Laya</strong></a></td>
+      <td>Local-first ML Inference (Python + TypeScript SDK)</td>
+      <td><a href="https://github.com/NandhaKishorM/laya/pull/329">#329: Port Agent.predict_batch and Router.route_batch/predict_batch to the TS SDK</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NandhaKishorM/laya"><strong>Laya</strong></a></td>
+      <td>Local-first ML Inference (Python + TypeScript SDK)</td>
+      <td><a href="https://github.com/NandhaKishorM/laya/pull/336">#336: Report state truncation in usage from the real token budget (#174)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NandhaKishorM/laya"><strong>Laya</strong></a></td>
+      <td>Local-first ML Inference (Python + TypeScript SDK)</td>
+      <td><a href="https://github.com/NandhaKishorM/laya/pull/339">#339: Port structured decisions (decide) to the TS SDK (#280)</a></td>
+      <td><img src="https://img.shields.io/badge/PR-Open%20%2F%20CI%20Passing-success?style=flat-square" alt="Open"></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/digitalnsw/nsw-design-system"><strong>NSW Design System</strong></a> 🇦🇺</td>
       <td>NSW Government Design System</td>
