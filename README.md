@@ -124,12 +124,6 @@ Full documentation case study of one enterprise system (PayLink wallet): BRD/FSD
 
 ---
 
-## Activity
-
-<div align="center">
-<img src="https://ghchart.rshah.org/2563EB/aashish254" width="100%" alt="Contribution chart"/>
-</div>
-
 <div align="center">
 
 **[748+ LeetCode problems](https://leetcode.com/u/aashish124)** · 106 Hard · 365-day streak
