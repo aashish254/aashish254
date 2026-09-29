@@ -8,7 +8,7 @@ B.Tech CSE (VIT Vellore) · Kathmandu, Nepal · Nova
 [burn live docs](https://aashish254.github.io/burn/) ·
 [limen live docs](https://aashish254.github.io/limen/)
 
-![509 GitHub contributions across 53 weeks, peaking at 230 in the last full week](assets/contributions.svg)
+![509 GitHub contributions over the 53 weeks ending 29 Sep 2026, as a contribution heatmap. Nearly all of them fall in the last four columns.](assets/contributions.svg)
 
 I build local-first AI tools, and I put the fixes back into the projects I
 actually use instead of keeping them in my own fork.
