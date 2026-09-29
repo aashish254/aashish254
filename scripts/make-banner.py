@@ -5,7 +5,7 @@ The data file is a snapshot of the GitHub contributions calendar; regenerate
 it with:
 
     gh api graphql -f query='{viewer{contributionsCollection(
-      from:"2025-09-28T00:00:00Z",to:"2026-09-28T23:59:59Z"){
+      from:"2025-09-29T00:00:00Z",to:"2026-09-29T23:59:59Z"){
       contributionCalendar{totalContributions weeks{contributionDays{
       contributionCount date}}}}}}' > /tmp/contrib.json
 
