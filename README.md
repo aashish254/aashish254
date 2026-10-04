@@ -14,38 +14,38 @@ agentvault only talks to a channel you configure yourself, for approvals.
 
 ## Pinned
 
-**[Aniflow](https://github.com/aashish254/Aniflow)** — Python
-Turns webtoons and manhwa into narrated videos: object detection on the panels,
+**[Aniflow](https://github.com/aashish254/Aniflow)** · Python — Turns
+webtoons and manhwa into narrated videos: object detection on the panels,
 multi-voice narration, automated editing and rendering.
 
-**[burn](https://github.com/aashish254/burn)** — JavaScript
-Tells you what your coding agents actually cost. It reads the transcripts Claude
+**[burn](https://github.com/aashish254/burn)** · JavaScript — Tells you what
+your coding agents actually cost. It reads the transcripts Claude
 Code, Codex, OpenCode and Gemini CLI already leave on disk and reports spend per
 repository, model, day and git branch, marking every figure as billed, estimated
 or unpriced so you know which numbers you can act on. Reference implementation of
 the ULP 1.0 format.
 [Live docs](https://aashish254.github.io/burn/)
 
-**[limen](https://github.com/aashish254/limen)** — Python
-Shows how much of your prompt is boilerplate your agent re-sends on every call,
+**[limen](https://github.com/aashish254/limen)** · Python — Shows how much of
+your prompt is boilerplate your agent re-sends on every call,
 and compiles it out. It is a local, opt-in proxy: it measures first and enforces
 nothing until you say so.
 [Live docs](https://aashish254.github.io/limen/)
 
-**[agentvault](https://github.com/aashish254/agentvault)** — Go
-A permission firewall for AI agents. YAML policies, one-tap approvals from a
+**[agentvault](https://github.com/aashish254/agentvault)** · Go — A permission
+firewall for AI agents. YAML policies, one-tap approvals from a
 macOS popup or Telegram, and a tamper-evident signed audit log. On its own
 benchmark: 103 of 103 attacks blocked, 8 of 8 normal operations allowed.
 [Live docs](https://aashish254.github.io/agentvault/)
 
-**[stratmate](https://github.com/aashish254/stratmate)** — JavaScript
-Planning and timing math for mobile game alliances: resource schedules, attack
+**[stratmate](https://github.com/aashish254/stratmate)** · JavaScript — Planning
+and timing math for mobile game alliances: resource schedules, attack
 windows, and the arithmetic a coordinator is otherwise doing by hand in a chat.
 
-**[ai-image-detection](https://github.com/aashish254/ai-image-detection)** — TypeScript
-A forensic analysis platform for telling AI-generated images apart from real
-ones, combining frequency-domain signals with vision models across several
-detection algorithms.
+**[ai-image-detection](https://github.com/aashish254/ai-image-detection)** ·
+TypeScript — A forensic analysis platform for telling AI-generated images apart
+from real ones, combining frequency-domain signals with vision models across
+several detection algorithms.
 
 ## Elsewhere
 
