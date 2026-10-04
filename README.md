@@ -17,56 +17,75 @@ yourself, for approvals.
 
 ## Contributions
 
-**[Laya](https://github.com/NandhaKishorM/laya)** — its biggest contributor
-outside the owner, [per its own graph](https://github.com/NandhaKishorM/laya/graphs/contributors).
-What I built there:
+**[Laya](https://github.com/NandhaKishorM/laya)** — where most of my work lands,
+and [its biggest contributor outside the
+owner](https://github.com/NandhaKishorM/laya/graphs/contributors).
+[Batching in the ONNX runtime](https://github.com/NandhaKishorM/laya/pull/489) ·
+[batching in the TypeScript SDK](https://github.com/NandhaKishorM/laya/pull/329) ·
+[a throughput form of structured
+decisions](https://github.com/NandhaKishorM/laya/pull/520) ·
+[long-document answers in routed windows](https://github.com/NandhaKishorM/laya/pull/497) ·
+[the hooks lifecycle ported to TypeScript](https://github.com/NandhaKishorM/laya/pull/308) ·
+[the CLI](https://github.com/NandhaKishorM/laya/pull/155) ·
+[batch tools over MCP for agents](https://github.com/NandhaKishorM/laya/pull/513) ·
+[a schema-driven LangChain decision
+node](https://github.com/NandhaKishorM/laya/pull/524) ·
+[benchmarks pinned to the commit they
+scored](https://github.com/NandhaKishorM/laya/pull/588) ·
+[/health that says where inference really
+ran](https://github.com/NandhaKishorM/laya/pull/574) ·
+[each checkpoint verified against its own SHA-256
+map](https://github.com/NandhaKishorM/laya/pull/572).
 
-- **Batching across every backend.** [The ONNX runtime got the batch API the
-  torch agent already had](https://github.com/NandhaKishorM/laya/pull/489),
-  [the TypeScript SDK got it too](https://github.com/NandhaKishorM/laya/pull/329),
-  [structured decisions got a throughput form](https://github.com/NandhaKishorM/laya/pull/520),
-  and [the CLI scores a file of requests in one pass](https://github.com/NandhaKishorM/laya/pull/511).
-- **Long documents.** [Route first, then scan the whole state in
-  windows](https://github.com/NandhaKishorM/laya/pull/497) — and
-  [the same API on the ONNX agent](https://github.com/NandhaKishorM/laya/pull/494).
-- **The TypeScript SDK brought to parity with the Python core:**
-  [the hooks lifecycle](https://github.com/NandhaKishorM/laya/pull/308),
-  [structured decisions](https://github.com/NandhaKishorM/laya/pull/339),
-  [truncation reported from the real token
-  budget](https://github.com/NandhaKishorM/laya/pull/336),
-  [per-language temperature overrides](https://github.com/NandhaKishorM/laya/pull/398).
-- **Ways to reach it.** [The CLI](https://github.com/NandhaKishorM/laya/pull/155),
-  [batch tools over MCP for agents](https://github.com/NandhaKishorM/laya/pull/513),
-  [a schema-driven LangChain decision
-  node](https://github.com/NandhaKishorM/laya/pull/524).
-- **Benchmarks that report what they measured.** [Which commit a score came
-  from](https://github.com/NandhaKishorM/laya/pull/588), [whether the GPU ran it
-  or the CPU quietly did](https://github.com/NandhaKishorM/laya/pull/574), [what
-  a request waited for](https://github.com/NandhaKishorM/laya/pull/592).
-- **Trust in the checkpoints.** [Each one verified against its own SHA-256
-  map](https://github.com/NandhaKishorM/laya/pull/572), and [a truncated download
-  repaired rather than trusted](https://github.com/NandhaKishorM/laya/pull/801).
+**[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)**
+— curriculum fixes where a hint or an assertion taught the wrong thing:
+[hints that never tested their own
+cases](https://github.com/freeCodeCamp/freeCodeCamp/pull/70447) ·
+[a challenge described as an image when it teaches a Markdown
+link](https://github.com/freeCodeCamp/freeCodeCamp/pull/70443).
 
-**Documentation.** [Curriculum fixes into
-freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)
-where a hint or an assertion taught the wrong thing — [one of them here](https://github.com/freeCodeCamp/freeCodeCamp/pull/70447).
-[Dead links and broken tables in
-public-apis](https://github.com/public-apis/public-apis/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254).
-[Typos and a compatibility fact in MDN](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254+user%3Amdn),
-including [Safari's support for `sizes="auto"`](https://github.com/mdn/browser-compat-data/pull/30629).
+**[public-apis](https://github.com/public-apis/public-apis/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)**
+— [dead API links removed](https://github.com/public-apis/public-apis/pull/7551) ·
+[the trailing empty cell that broke the Animals
+table](https://github.com/public-apis/public-apis/pull/7552) ·
+[Auth and HTTPS values normalised to the documented
+vocabulary](https://github.com/public-apis/public-apis/pull/7556).
 
-**Bugs in tools I use.** [A savings counter that printed `$0.00` instead of
-pricing itself](https://github.com/headroomlabs-ai/headroom/pull/3821) · [a
-layout solver that lost a node to float
-rounding](https://github.com/tt-a1i/archify/pull/591) · [a flake8-bugbear check
-that flagged names it shouldn't
-have](https://github.com/PyCQA/flake8-bugbear/pull/581) · [a crash on an
-unlisted model id](https://github.com/andrewyng/openworker/pull/677) · [an empty
-write that would truncate a
-file](https://github.com/odysseus-dev/odysseus/pull/6415) · [local CLIs shadowed
-by broken PATH shims](https://github.com/stablyai/orca/pull/23275) · [a missing
-test for nested fixture
-discovery](https://github.com/StellarCanary/ProtocolCanary-Fixtures/pull/90).
+**[MDN](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254+user%3Amdn)**
+— [typos in the CSS animation shorthand
+reference](https://github.com/mdn/content/pull/45786) ·
+[Safari 27 supporting `sizes="auto"` on image
+elements](https://github.com/mdn/browser-compat-data/pull/30629).
+
+**[odysseus](https://github.com/odysseus-dev/odysseus)**
+— [an empty write that would truncate a
+file](https://github.com/odysseus-dev/odysseus/pull/6415) ·
+[a blank memory_id refused on edit and
+delete](https://github.com/odysseus-dev/odysseus/pull/6370).
+
+**[headroom](https://github.com/headroomlabs-ai/headroom)**
+— [the savings tile priced instead of printing
+`$0.00`](https://github.com/headroomlabs-ai/headroom/pull/3821).
+
+**[archify](https://github.com/tt-a1i/archify)**
+— [float rounding that lost a node at the solver's exact
+minimum](https://github.com/tt-a1i/archify/pull/591).
+
+**[flake8-bugbear](https://github.com/PyCQA/flake8-bugbear)**
+— [B020 flagging names bound in nested
+destructuring](https://github.com/PyCQA/flake8-bugbear/pull/581).
+
+**[openworker](https://github.com/andrewyng/openworker)**
+— [a crash on a model id that wasn't in its
+list](https://github.com/andrewyng/openworker/pull/677).
+
+**[orca](https://github.com/stablyai/orca)**
+— [local forge CLIs recovered from broken PATH
+shims](https://github.com/stablyai/orca/pull/23275).
+
+**[ProtocolCanary-Fixtures](https://github.com/StellarCanary/ProtocolCanary-Fixtures)**
+— [recursive fixture discovery in nested
+directories](https://github.com/StellarCanary/ProtocolCanary-Fixtures/pull/90).
 
 Every link above is a merged pull request. [The full set is one search
 away](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254).
