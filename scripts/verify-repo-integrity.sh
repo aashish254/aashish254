@@ -22,14 +22,19 @@ done
 
 # 2. Check internal markdown links
 echo "Checking internal document references..."
-grep -o 'docs/[a-zA-Z0-9_-]*\.md' README.md | while read -r link; do
-  if [[ -f "$link" ]]; then
-    echo "  ✓ Valid link: $link"
-  else
-    echo "  ✗ Broken relative link in README: $link"
-    exit 1
-  fi
-done
+links=$(grep -o 'docs/[a-zA-Z0-9_-]*\.md' README.md || true)
+if [[ -z "$links" ]]; then
+  echo "  - README references no docs/ file."
+else
+  while read -r link; do
+    if [[ -f "$link" ]]; then
+      echo "  ✓ Valid link: $link"
+    else
+      echo "  ✗ Broken relative link in README: $link"
+      exit 1
+    fi
+  done <<< "$links"
+fi
 
 echo "========================================="
 echo " All repository integrity checks passed!"
