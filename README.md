@@ -9,43 +9,67 @@ decision engine that answers with a single forward pass rather than generating
 token by token, so speed and correctness are the product; I have worked on its
 batching, its TypeScript SDK, its CLI, its MCP server and its benchmarks.
 
-burn and limen work entirely on your machine with no account and no telemetry;
-agentvault only talks to a channel you configure yourself, for approvals.
+My own tools — [burn](https://github.com/aashish254/burn),
+[limen](https://github.com/aashish254/limen) and
+[agentvault](https://github.com/aashish254/agentvault) — run on your machine with
+no account and no telemetry; agentvault only talks to a channel you configure
+yourself, for approvals.
 
-## Pinned
+## Contributions
 
-**[Aniflow](https://github.com/aashish254/Aniflow)** · Python — Turns
-webtoons and manhwa into narrated videos: object detection on the panels,
-multi-voice narration, automated editing and rendering.
+**[Laya](https://github.com/NandhaKishorM/laya)** — its biggest contributor
+outside the owner, [per its own graph](https://github.com/NandhaKishorM/laya/graphs/contributors).
+What I built there:
 
-**[burn](https://github.com/aashish254/burn)** · JavaScript — Tells you what
-your coding agents actually cost. It reads the transcripts Claude
-Code, Codex, OpenCode and Gemini CLI already leave on disk and reports spend per
-repository, model, day and git branch, marking every figure as billed, estimated
-or unpriced so you know which numbers you can act on. Reference implementation of
-the ULP 1.0 format.
-[Live docs](https://aashish254.github.io/burn/)
+- **Batching across every backend.** [The ONNX runtime got the batch API the
+  torch agent already had](https://github.com/NandhaKishorM/laya/pull/489),
+  [the TypeScript SDK got it too](https://github.com/NandhaKishorM/laya/pull/329),
+  [structured decisions got a throughput form](https://github.com/NandhaKishorM/laya/pull/520),
+  and [the CLI scores a file of requests in one pass](https://github.com/NandhaKishorM/laya/pull/511).
+- **Long documents.** [Route first, then scan the whole state in
+  windows](https://github.com/NandhaKishorM/laya/pull/497) — and
+  [the same API on the ONNX agent](https://github.com/NandhaKishorM/laya/pull/494).
+- **The TypeScript SDK brought to parity with the Python core:**
+  [the hooks lifecycle](https://github.com/NandhaKishorM/laya/pull/308),
+  [structured decisions](https://github.com/NandhaKishorM/laya/pull/339),
+  [truncation reported from the real token
+  budget](https://github.com/NandhaKishorM/laya/pull/336),
+  [per-language temperature overrides](https://github.com/NandhaKishorM/laya/pull/398).
+- **Ways to reach it.** [The CLI](https://github.com/NandhaKishorM/laya/pull/155),
+  [batch tools over MCP for agents](https://github.com/NandhaKishorM/laya/pull/513),
+  [a schema-driven LangChain decision
+  node](https://github.com/NandhaKishorM/laya/pull/524).
+- **Benchmarks that report what they measured.** [Which commit a score came
+  from](https://github.com/NandhaKishorM/laya/pull/588), [whether the GPU ran it
+  or the CPU quietly did](https://github.com/NandhaKishorM/laya/pull/574), [what
+  a request waited for](https://github.com/NandhaKishorM/laya/pull/592).
+- **Trust in the checkpoints.** [Each one verified against its own SHA-256
+  map](https://github.com/NandhaKishorM/laya/pull/572), and [a truncated download
+  repaired rather than trusted](https://github.com/NandhaKishorM/laya/pull/801).
 
-**[limen](https://github.com/aashish254/limen)** · Python — Shows how much of
-your prompt is boilerplate your agent re-sends on every call,
-and compiles it out. It is a local, opt-in proxy: it measures first and enforces
-nothing until you say so.
-[Live docs](https://aashish254.github.io/limen/)
+**Documentation.** [Curriculum fixes into
+freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)
+where a hint or an assertion taught the wrong thing — [one of them here](https://github.com/freeCodeCamp/freeCodeCamp/pull/70447).
+[Dead links and broken tables in
+public-apis](https://github.com/public-apis/public-apis/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254).
+[Typos and a compatibility fact in MDN](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254+user%3Amdn),
+including [Safari's support for `sizes="auto"`](https://github.com/mdn/browser-compat-data/pull/30629).
 
-**[agentvault](https://github.com/aashish254/agentvault)** · Go — A permission
-firewall for AI agents. YAML policies, one-tap approvals from a
-macOS popup or Telegram, and a tamper-evident signed audit log. On its own
-benchmark: 103 of 103 attacks blocked, 8 of 8 normal operations allowed.
-[Live docs](https://aashish254.github.io/agentvault/)
+**Bugs in tools I use.** [A savings counter that printed `$0.00` instead of
+pricing itself](https://github.com/headroomlabs-ai/headroom/pull/3821) · [a
+layout solver that lost a node to float
+rounding](https://github.com/tt-a1i/archify/pull/591) · [a flake8-bugbear check
+that flagged names it shouldn't
+have](https://github.com/PyCQA/flake8-bugbear/pull/581) · [a crash on an
+unlisted model id](https://github.com/andrewyng/openworker/pull/677) · [an empty
+write that would truncate a
+file](https://github.com/odysseus-dev/odysseus/pull/6415) · [local CLIs shadowed
+by broken PATH shims](https://github.com/stablyai/orca/pull/23275) · [a missing
+test for nested fixture
+discovery](https://github.com/StellarCanary/ProtocolCanary-Fixtures/pull/90).
 
-**[stratmate](https://github.com/aashish254/stratmate)** · JavaScript — Planning
-and timing math for mobile game alliances: resource schedules, attack
-windows, and the arithmetic a coordinator is otherwise doing by hand in a chat.
-
-**[ai-image-detection](https://github.com/aashish254/ai-image-detection)** ·
-TypeScript — A forensic analysis platform for telling AI-generated images apart
-from real ones, combining frequency-domain signals with vision models across
-several detection algorithms.
+Every link above is a merged pull request. [The full set is one search
+away](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254).
 
 ## Elsewhere
 
