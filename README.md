@@ -1,97 +1,49 @@
 # Aashish Mahato
 
-Systems Architect · AI Integration Engineer · Kathmandu, Nepal
+I build trustworthy, local-first infrastructure for AI agents.
 
-I build local-first tools for people who work with AI agents, and I send the
-fixes back upstream instead of keeping them in my own fork. Most of my
-open-source work goes into [Laya](https://github.com/NandhaKishorM/laya), an AI
-decision engine that answers with a single forward pass rather than generating
-token by token, so speed and correctness are the product; I have worked on its
-batching, its TypeScript SDK, its CLI, its MCP server and its benchmarks.
+My work sits at the intersection of AI systems, developer tooling, security, and observability. I care about software that is fast, inspectable, privacy-aware, and honest about what it measured.
 
-My own tools — [burn](https://github.com/aashish254/burn),
-[limen](https://github.com/aashish254/limen) and
-[agentvault](https://github.com/aashish254/agentvault) — run on your machine with
-no account and no telemetry; agentvault only talks to a channel you configure
-yourself, for approvals.
+## What I build
 
-## Contributions
+- **Agent security** — runtime permissions, approval workflows, sandboxing, and audit trails
+- **Agent observability** — local-first usage, cost, provenance, and performance tracking
+- **AI developer tools** — coding agents, verification workflows, MCP integrations, and CLIs
+- **Decision systems** — fast structured inference instead of unnecessary token generation
 
-**[Laya](https://github.com/NandhaKishorM/laya)** — where most of my work lands,
-and [its biggest contributor outside the
-owner](https://github.com/NandhaKishorM/laya/graphs/contributors).
-[Batching in the ONNX runtime](https://github.com/NandhaKishorM/laya/pull/489) ·
-[batching in the TypeScript SDK](https://github.com/NandhaKishorM/laya/pull/329) ·
-[a throughput form of structured
-decisions](https://github.com/NandhaKishorM/laya/pull/520) ·
-[long-document answers in routed windows](https://github.com/NandhaKishorM/laya/pull/497) ·
-[the hooks lifecycle ported to TypeScript](https://github.com/NandhaKishorM/laya/pull/308) ·
-[the CLI](https://github.com/NandhaKishorM/laya/pull/155) ·
-[batch tools over MCP for agents](https://github.com/NandhaKishorM/laya/pull/513) ·
-[a schema-driven LangChain decision
-node](https://github.com/NandhaKishorM/laya/pull/524) ·
-[benchmarks pinned to the commit they
-scored](https://github.com/NandhaKishorM/laya/pull/588) ·
-[/health that says where inference really
-ran](https://github.com/NandhaKishorM/laya/pull/574) ·
-[each checkpoint verified against its own SHA-256
-map](https://github.com/NandhaKishorM/laya/pull/572).
+## Featured projects
 
-**[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)**
-— curriculum fixes where a hint or an assertion taught the wrong thing:
-[hints that never tested their own
-cases](https://github.com/freeCodeCamp/freeCodeCamp/pull/70447) ·
-[a challenge described as an image when it teaches a Markdown
-link](https://github.com/freeCodeCamp/freeCodeCamp/pull/70443).
+| Project | What it does |
+| --- | --- |
+| [agentvault](https://github.com/aashish254/agentvault) | Runtime permission firewall for AI agents with approvals and tamper-evident audit logs |
+| [burn](https://github.com/aashish254/burn) | Local-first cost and usage ledger for Claude Code, OpenCode, Codex, and Gemini CLI |
+| [limen](https://github.com/aashish254/limen) | Opt-in local proxy that measures and inspects what coding agents resend |
+| [flash-coder](https://github.com/aashish254/flash-coder) | Agentic coding CLI with oracle-scored patches and mutation-tested verification |
+| [myna](https://github.com/aashish254/myna) | Typed decision engine for choice, score, and yes/no decisions in one forward pass |
+| [ulp](https://github.com/aashish254/ulp) | Privacy-first protocol for portable AI coding usage and cost records |
 
-**[public-apis](https://github.com/public-apis/public-apis/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)**
-— [dead API links removed](https://github.com/public-apis/public-apis/pull/7551) ·
-[the trailing empty cell that broke the Animals
-table](https://github.com/public-apis/public-apis/pull/7552) ·
-[Auth and HTTPS values normalised to the documented
-vocabulary](https://github.com/public-apis/public-apis/pull/7556).
+## Open-source work
 
-**[MDN](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254+user%3Amdn)**
-— [typos in the CSS animation shorthand
-reference](https://github.com/mdn/content/pull/45786) ·
-[Safari 27 supporting `sizes="auto"` on image
-elements](https://github.com/mdn/browser-compat-data/pull/30629).
+A large part of my open-source work is upstream contribution rather than maintaining isolated forks.
 
-**[odysseus](https://github.com/odysseus-dev/odysseus)**
-— [an empty write that would truncate a
-file](https://github.com/odysseus-dev/odysseus/pull/6415) ·
-[a blank memory_id refused on edit and
-delete](https://github.com/odysseus-dev/odysseus/pull/6370).
+- **[Laya](https://github.com/NandhaKishorM/laya)** — major contributions across batching, the TypeScript SDK, CLI workflows, MCP tools, routing, long-document inference, hooks, and benchmark infrastructure.
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — curriculum correctness and documentation fixes.
+- **[MDN](https://github.com/mdn/content)** — web documentation and browser compatibility fixes.
+- **[public-apis](https://github.com/public-apis/public-apis)** — data quality, link maintenance, and schema consistency fixes.
+- **Open-source agent tooling** — fixes and improvements across OpenClaw, OpenWorker, Orca, Headroom, Archify, and ProtocolCanary.
 
-**[headroom](https://github.com/headroomlabs-ai/headroom)**
-— [the savings tile priced instead of printing
-`$0.00`](https://github.com/headroomlabs-ai/headroom/pull/3821).
+## Engineering principles
 
-**[archify](https://github.com/tt-a1i/archify)**
-— [float rounding that lost a node at the solver's exact
-minimum](https://github.com/tt-a1i/archify/pull/591).
-
-**[flake8-bugbear](https://github.com/PyCQA/flake8-bugbear)**
-— [B020 flagging names bound in nested
-destructuring](https://github.com/PyCQA/flake8-bugbear/pull/581).
-
-**[openworker](https://github.com/andrewyng/openworker)**
-— [a crash on a model id that wasn't in its
-list](https://github.com/andrewyng/openworker/pull/677).
-
-**[orca](https://github.com/stablyai/orca)**
-— [local forge CLIs recovered from broken PATH
-shims](https://github.com/stablyai/orca/pull/23275).
-
-**[ProtocolCanary-Fixtures](https://github.com/StellarCanary/ProtocolCanary-Fixtures)**
-— [recursive fixture discovery in nested
-directories](https://github.com/StellarCanary/ProtocolCanary-Fixtures/pull/90).
-
-Every link above is a merged pull request. [The full set is one search
-away](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254).
+- Local-first by default
+- No telemetry unless explicitly enabled
+- Security boundaries should be testable
+- Benchmarks should be reproducible
+- Failures should explain themselves
+- Fixes belong upstream
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/aashish-mahato-572611257) ·
-[LeetCode](https://leetcode.com/u/aashish124) ·
-[All my pull requests](https://github.com/pulls?q=is%3Apr+author%3Aaashish254)
+- [LinkedIn](https://www.linkedin.com/in/aashish-mahato-572611257)
+- [LeetCode](https://leetcode.com/u/aashish124/)
+- [301 merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aaashish254)
+- [All pull requests](https://github.com/pulls?q=is%3Apr+author%3Aaashish254)
