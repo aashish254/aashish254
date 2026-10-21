@@ -29,6 +29,7 @@ A large part of my open-source work is upstream contribution rather than maintai
 - **[Laya](https://github.com/NandhaKishorM/laya)** — major contributions across batching, the TypeScript SDK, CLI workflows, MCP tools, routing, long-document inference, hooks, and benchmark infrastructure.
 - **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — curriculum correctness and documentation fixes.
 - **[MDN](https://github.com/mdn/content)** — web documentation and browser compatibility fixes.
+- **[facebook/time](https://github.com/facebook/time) and [facebook/astryx](https://github.com/facebook/astryx)** — decoder bounds and frame-encoding guards in the NTP/RTCM stack; module path resolution, time parsing, and CDN asset priming in the design system.
 - **[public-apis](https://github.com/public-apis/public-apis)** — data quality, link maintenance, and schema consistency fixes.
 - **Open-source agent tooling** — fixes and improvements across OpenClaw, OpenWorker, Orca, Headroom, Archify, and ProtocolCanary.
 
